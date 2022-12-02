@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_website_blocks_home_book_flights",
+  "info": {
+    "displayName": "Home Book Flight",
+    "icon": "square"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_website_blocks_home_banners",
+  "info": {
+    "displayName": "Home Banner",
+    "icon": "square"
+  },
+  "options": {},
+  "attributes": {
+    "bigTitle": {
+      "type": "string"
+    },
+    "smallTitle": {
+      "type": "string"
+    },
+    "bannerImg": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": false
+    }
+  }
+}

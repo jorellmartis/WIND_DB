@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_website_blocks_home_flexible_services",
+  "info": {
+    "displayName": "Home Flexible Service",
+    "icon": "square"
+  },
+  "options": {},
+  "attributes": {
+    "txtLeftUpper": {
+      "type": "string"
+    },
+    "txtLeftLower": {
+      "type": "string"
+    }
+  }
+}

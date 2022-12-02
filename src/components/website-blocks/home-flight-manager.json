@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_website_blocks_home_flight_managers",
+  "info": {
+    "displayName": "Home Flight Manager",
+    "icon": "square",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

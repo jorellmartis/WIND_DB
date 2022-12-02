@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_website_blocks_home_destinations",
+  "info": {
+    "displayName": "Home Destinations",
+    "icon": "square",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

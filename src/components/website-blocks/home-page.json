@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_website_blocks_home_pages",
+  "info": {
+    "displayName": "Home Page",
+    "icon": "square"
+  },
+  "options": {},
+  "attributes": {
+    "homePageInfo": {
+      "type": "text"
+    },
+    "homePageImg": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
