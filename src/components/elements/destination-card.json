@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_elements_destination_cards",
+  "info": {
+    "displayName": "Destination Card",
+    "icon": "receipt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "pages_destination": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::pages-destination.pages-destination"
+    }
+  }
+}

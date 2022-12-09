@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_website_blocks_destination_listings",
+  "info": {
+    "displayName": "Destination Listing",
+    "icon": "list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "destinationCard": {
+      "displayName": "Destination Card",
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.destination-card"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

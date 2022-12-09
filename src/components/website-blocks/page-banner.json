@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_website_blocks_page_banners",
+  "info": {
+    "displayName": "Page Banner",
+    "icon": "money-bill-wave-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "imgBanner": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

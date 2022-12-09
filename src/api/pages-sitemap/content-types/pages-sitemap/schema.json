@@ -42,7 +42,9 @@
         "website-blocks.home-flexible-service",
         "website-blocks.home-destinations",
         "website-blocks.home-flight-manager",
-        "website-blocks.home-book-flight"
+        "website-blocks.home-book-flight",
+        "website-blocks.page-banner",
+        "website-blocks.destination-listing"
       ]
     }
   }

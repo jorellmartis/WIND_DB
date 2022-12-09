@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages_destinations",
+  "info": {
+    "singularName": "pages-destination",
+    "pluralName": "pages-destinations",
+    "displayName": "Pages - Destination",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "global.seo"
+    },
+    "description": {
+      "type": "text"
+    },
+    "blocks": {
+      "type": "dynamiczone",
+      "components": [
+        "website-blocks.page-banner"
+      ]
+    },
+    "imgThumbnail": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
